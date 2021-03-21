@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">ActivityResultExample</string>
+    <string name="multiple_permissions">Multiple permissions</string>
+    <string name="single_permission">Single permission</string>
+    <string name="permission_rationale">Should Show Request Permission Rationale</string>
+    <string name="camera_permission">Camera permission granted</string>
+    <string name="contacts_calendar_permission">Contact and calendar permissions granted</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="multiple_permissions">Permissões múltiplas</string>
+    <string name="single_permission">Permissão única</string>
+    <string name="permission_rationale">Deve mostrar a razão da permissão</string>
+    <string name="camera_permission">Permissão de câmera garantida</string>
+    <string name="contacts_calendar_permission">Permissões de contato e calendário garantida</string>
+</resources>
